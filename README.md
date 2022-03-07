@@ -1,2 +1,1 @@
-# one
 # ruynhdesu.github.io
